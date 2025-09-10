@@ -29,8 +29,8 @@ You are required to help the manager to predict the right group of the new custo
 
 ## PROGRAM:
 
-### Name: RITHIGA SRI.B
-### Register Number: 212221230083
+### Name: V.S.Sree Viveka
+### Register Number: 2305001031
 
 ```python
 import pandas as pd
@@ -184,18 +184,23 @@ print(le.inverse_transform(x_single_prediction))
 ```
 
 ## Dataset Information:
-![image](https://github.com/Rithigasri/DL_Exp02/assets/93427256/59ce1619-686c-4ae9-835f-9c77bdb146ed)
+<img width="802" height="190" alt="Screenshot 2025-09-09 091837" src="https://github.com/user-attachments/assets/3ad89da4-c1d7-4711-85eb-e199edb21970" />
 
 
 ## OUTPUT:
 ### Training Loss, Validation Loss Vs Iteration Plot:
-![image](https://github.com/Rithigasri/DL_Exp02/assets/93427256/714e5816-8daf-49df-8ee1-bff332a8b6b6)
+<img width="724" height="512" alt="Screenshot 2025-09-10 180829" src="https://github.com/user-attachments/assets/5a824692-13bc-44e7-9d73-b1bcee05ba23" />
 ### Classification Report:
-![image](https://github.com/Rithigasri/DL_Exp02/assets/93427256/6bfd3d31-f93b-42d9-83e4-a8ec21f6a983)
+<img width="605" height="261" alt="Screenshot 2025-09-10 180903" src="https://github.com/user-attachments/assets/8162e028-936f-437b-a79e-281d47b560de" />
 ### Confusion Matrix:
-![image](https://github.com/Rithigasri/DL_Exp02/assets/93427256/419517ce-f97d-4f3e-af4a-977ccb0d24d4)
+<img width="253" height="124" alt="Screenshot 2025-09-10 180852" src="https://github.com/user-attachments/assets/cd2338ef-f306-49fc-9aac-1a59529d47e0" />
 ### New Sample Data Prediction:
-![image](https://github.com/Rithigasri/DL_Exp02/assets/93427256/11617352-b34c-4762-b686-39798d90c82d)
+<img width="756" height="26" alt="Screenshot 2025-09-10 181107" src="https://github.com/user-attachments/assets/a6b5e9b9-bd17-4e46-83ff-dd4e4a149b40" />
+<img width="386" height="20" alt="Screenshot 2025-09-10 181209" src="https://github.com/user-attachments/assets/3ef9766e-d891-4dbf-a23d-6068ab548803" />
+<img width="495" height="29" alt="Screenshot 2025-09-10 181116" src="https://github.com/user-attachments/assets/10fc314a-cb81-4f69-9677-3af7f06b2984" />
+<img width="206" height="26" alt="Screenshot 2025-09-10 181219" src="https://github.com/user-attachments/assets/af305c21-ce83-4b1c-980e-5af13950ed4f" />
+<img width="712" height="39" alt="Screenshot 2025-09-10 181123" src="https://github.com/user-attachments/assets/358de766-40aa-4327-9d04-54355df3b2a4" />
+<img width="251" height="29" alt="Screenshot 2025-09-10 181228" src="https://github.com/user-attachments/assets/ac7d1813-8d4c-4556-ac44-e84d9437b666" />
 
 ## RESULT:
 Thus a neural network classification model is developed for the given dataset.
